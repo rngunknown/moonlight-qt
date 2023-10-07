@@ -21,7 +21,7 @@ ApplicationWindow {
     id: window
     visible: true
     width: 1280
-    height: 600
+    height: 800
 
     // Override the background color to Material 2 colors for Qt 6.5+
     // in order to improve contrast between GFE's placeholder box art
